@@ -143,7 +143,7 @@ All free tiers sufficient for development and demos.
 ## Quickstart
 
 ```bash
-git clone https://github.com/naturalvoice/naturalvoice
+git clone https://github.com/kavi936/naturalvoice
 cd naturalvoice
 pip install -r requirements.txt
 cp .env.example .env

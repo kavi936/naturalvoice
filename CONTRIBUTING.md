@@ -12,7 +12,7 @@ Thanks for helping make voice agents sound human. This project is early — issu
 ## Development setup
 
 ```bash
-git clone https://github.com/naturalvoice/naturalvoice.git
+git clone https://github.com/kavi936/naturalvoice.git
 cd naturalvoice
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt

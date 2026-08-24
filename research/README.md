@@ -17,7 +17,7 @@ If you reference this work, use:
   title        = {The Voice Agent Naturalness Problem: A Layered Analysis},
   author       = {naturalvoice contributors},
   year         = {2026},
-  howpublished = {\url{https://github.com/naturalvoice/naturalvoice/tree/main/research}},
+  howpublished = {\url{https://github.com/kavi936/naturalvoice/tree/main/research}},
   note         = {Open research document, v0.1}
 }
 ```

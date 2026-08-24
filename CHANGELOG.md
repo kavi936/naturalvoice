@@ -21,5 +21,5 @@ Format based on [Keep a Changelog](https://keepachangelog.com/).
 - Demo scripts: `run_demo.py` (ambient on) vs `run_baseline.py` (ambient off)
 - Research: *The Voice Agent Naturalness Problem: A Layered Analysis* (v0.1)
 
-[Unreleased]: https://github.com/naturalvoice/naturalvoice/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/naturalvoice/naturalvoice/releases/tag/v0.1.0
+[Unreleased]: https://github.com/kavi936/naturalvoice/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/kavi936/naturalvoice/releases/tag/v0.1.0
