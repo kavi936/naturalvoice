@@ -1,2 +1,2 @@
 # naturalvoice modules package.
-# Each submodule (ambient, turn-manager, speech-renderer) is independently importable.
+# Each submodule (ambient, turn_manager, speech-renderer) is independently importable.

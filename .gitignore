@@ -1,5 +1,11 @@
 # Local / secrets
 .env
+.env.local
+.env.*.local
+*.pem
+credentials.json
+
+# Python
 .venv/
 venv/
 __pycache__/
@@ -7,8 +13,27 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
-.DS_Store
-
-# Pipecat / tooling
-*.log
 .ruff_cache/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Personal strategy and research notes — not for public repo
+NV_STRATEGY.md
+NV_BENCHMARK.md
+
+# Benchmark / eval artifacts (local runs — public scaffolding ships separately)
+benchmark/results/
+benchmark/recordings/
+benchmark/submissions/
+*.eval.json
+*.nvscore.json
