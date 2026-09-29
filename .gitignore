@@ -30,6 +30,9 @@ build/
 # Personal strategy and research notes — not for public repo
 NV_STRATEGY.md
 NV_BENCHMARK.md
+NV_MONETIZATION.md
+NV_*.md
+private/
 
 # Benchmark / eval artifacts (local runs — public scaffolding ships separately)
 benchmark/results/

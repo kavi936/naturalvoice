@@ -210,6 +210,7 @@ Track progress in [`ROADMAP.md`](ROADMAP.md). Want to help design scenarios or s
 
 | Document | Summary |
 |---|---|
+| [voice-agent-tts-deep-dive.md](research/voice-agent-tts-deep-dive.md) | Beginner deep dive: Voice Agent/TTS history, glossary, how the stack works, software map |
 | [problem-analysis.md](research/problem-analysis.md) | Four failure layers, Levinson turn-taking paradox, vocal uncanny valley, protocol design |
 | [research/README.md](research/README.md) | Index, citation format, how to contribute research |
 

@@ -6,6 +6,7 @@ This folder holds the analytical foundation for naturalvoice — why voice agent
 
 | Document | Description |
 |---|---|
+| [voice-agent-tts-deep-dive.md](./voice-agent-tts-deep-dive.md) | Beginner orientation: history, terminology, how STT/LLM/TTS pipelines work, software map, and how naturalvoice fits (validated Sep 2026) |
 | [problem-analysis.md](./problem-analysis.md) | Full layered analysis with citations, prior art review, and protocol design rationale (v0.1) |
 
 ## How to cite

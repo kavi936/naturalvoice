@@ -90,7 +90,10 @@ Real-time parameter adaptation based on caller behavior. Requires benchmark (to 
 ## Future
 
 - Multilingual spoken-register rules and turn-taking conventions
-- Emotional mirroring (sentiment → TTS prosody settings)
+- Emotional mirroring (optional fifth module — after NV-Score + core four layers land)
+  - Stage A: confusion / dialogue-state from existing signals (repeats, clarifications, low ASR confidence, long `THINKING`)
+  - Stage B: lexical affect from transcript → prompt + register shifts
+  - Stage C: acoustic SER / prosody → TTS voice settings (true mirroring)
 - Phone-line compression simulation in Ambient Layer
 - Cross-accent robustness in benchmark caller simulator
 - Telemetry and diagnostics layer (open-core: modules stay OSS, observability optional)
